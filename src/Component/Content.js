@@ -14,7 +14,8 @@ function Content() {
     return (
         <div>
             <Header />
-
+            <Slider />
+            <Contact />
             <Footer />
         </div>
     )
